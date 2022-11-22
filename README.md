@@ -1,1 +1,3 @@
-# week-0-calculator-template
+# Requirement
+
+Build a basic calculator with only HTML
